@@ -1,11 +1,16 @@
-# borek
+## malzemeler.js add
 
 ```
 <script type="text/javascript" src="malzemeler.js">
 ```
 
-##HTML
+##HTML/body
 
 ```
-<input type="button" onclick="call(boregi)" value="Hazirla">
+	<form action="pisir">
+		<input type="button" onclick="call(boregi)" value="Hazirla">
+	</form>
+
 ```
+
+voila!
